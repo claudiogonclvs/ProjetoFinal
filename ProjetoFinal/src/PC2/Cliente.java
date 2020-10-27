@@ -13,4 +13,10 @@ public class Cliente {
     //lista de servicos (adicionar e remover);
 
 
+    public Cliente(int nif, String nome, String morada, int telefone) {
+        this.nif = nif;
+        this.nome = nome;
+        this.morada = morada;
+        this.telefone = telefone;
+    }
 }
