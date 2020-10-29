@@ -6,4 +6,7 @@ public class Manutencao {
     private int localIntervencao;
     private Veiculo veiculo;
     private int custo; //não é pedido no inicio
+
+
+    int x=0;
 }
