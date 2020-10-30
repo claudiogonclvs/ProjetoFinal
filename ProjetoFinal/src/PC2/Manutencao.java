@@ -9,4 +9,5 @@ public class Manutencao {
 
 
     int x=0;
+    int x=0;
 }
